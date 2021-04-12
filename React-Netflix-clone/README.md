@@ -3,7 +3,7 @@
 ### [Live Site](https://netflix-clone-51473.web.app/)
 
 ## Introduction
-This project is a simplified front end clone of Netflix. It is created with React and CSS (Flexbox). It uses The TMDB Api to search for movies and display details. Feel free to contribute!
+This project is a simplified front end clone of Netflix. It is created with React and CSS (Flexbox). It uses The TMDB Api to search for movies and display details. 
 
 ## Steps followed
 
